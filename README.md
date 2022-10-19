@@ -1,3 +1,3 @@
 # Dart-Basic-Calculator
 
-Dört işlem hesap makinesi.
+Dart dili ile yazılmış dört işlem hesap makinesi.
